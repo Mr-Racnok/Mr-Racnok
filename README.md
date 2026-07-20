@@ -10,8 +10,8 @@
 <br/><br/>
 
 <!-- GITFUT PLAYER CARD -->
-<a href="https://github.com/younesfdj/gitfut">
-  <img src="https://gitfut.vercel.app/api/card?username=Mr-Racnok&card=toty&show_avatar=true&bg=transparent" alt="GitFut Card" width="380"/>
+<a href="https://gitfut.com/Mr-Racnok?country=ps">
+  <img src="https://gitfut.com/Mr-Racnok?country=ps" alt="GitFut Card" width="380"/>
 </a>
 
 <p><i>"Code like a playmaker, build like a champion."</i></p>
