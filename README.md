@@ -1,7 +1,5 @@
-<div align="center">
-
-<a href="https://gitfut.com/Mr-Racnok?country=ps">
-  <img src="https://gitfut.com/Mr-Racnok?country=ps" alt="GitFut Card" width="380"/>
-</a>
-
-</div>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="dark_mode.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="light_mode.svg" />
+  <img alt="Mr-Racnok's GitHub profile" src="dark_mode.svg" />
+</picture>
